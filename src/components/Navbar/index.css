@@ -1,0 +1,22 @@
+
+.products{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#343a40;
+    padding: 20px 90px;
+}
+.navbarName{
+
+}
+.navComp{
+    display: flex;
+    background-color: #343a40;
+    gap: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    font-style: none;
+}
+.navbarName{
+    color: white;
+}

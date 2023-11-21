@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    background-color: #343a40;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 50px;
+
+}
+.headerComp{
+    background-color: #343a40;
+    color: white;
+
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 600px;
+}
+.img img{
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+}
+.buttonCont{
+    gap: 10px;
+    display: flex;
+}
