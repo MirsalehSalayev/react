@@ -1,3 +1,8 @@
 .card{
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+    width: 360px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
 }

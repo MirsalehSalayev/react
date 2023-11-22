@@ -12,7 +12,6 @@ const Card = () => {
                 </h4>
                 <p>Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
             </div>
-
         </div>
     )
 }

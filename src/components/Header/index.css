@@ -1,20 +1,26 @@
 .header{
     display: flex;
-    background-color: #343a40;
+    background-color: #212529;
+
     justify-content: space-around;
     align-items: center;
     padding: 50px 50px;
 
 }
 .headerComp{
-    background-color: #343a40;
+    background-color: #212529;
     color: white;
-
     font-size: 22px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 30px;
     width: 600px;
+}
+.titleOne{
+    font-size: 40px
+}
+.titleTwo{
+    color:#6c757d !important;
 }
 .img img{
     width: 600px;
@@ -22,6 +28,25 @@
     border-radius: 10px;
 }
 .buttonCont{
-    gap: 10px;
+    gap: 30px;
+    height: 40px;
     display: flex;
+}
+.buttonCont button{
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+}
+.Get{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.Learn{
+    border: 1px solid white;
+    color: white;
+
+    background-color: #212529;
+
+
 }
