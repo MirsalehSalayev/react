@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from '../Card/Card'
-import About from '../about'
+
 import "./index.css"
 
 const Main = () => {
@@ -15,9 +15,7 @@ const Main = () => {
                     <Card></Card>
                 </div>
             </div>
-            <div className='mainAbout'>
-                <About />
-            </div>
+
 
         </div>
     )
